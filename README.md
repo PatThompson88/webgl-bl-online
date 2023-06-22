@@ -1,2 +1,3 @@
-# webgl-bl-online
-BL Online playable WebGL demo
+# WebGL Build of BL Online
+
+Playable WebGL Demo:  https://patthompson88.github.io/webgl-bl-online/ 
